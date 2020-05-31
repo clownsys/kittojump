@@ -18,10 +18,11 @@ margin:0;
 
 .kitcontain{
   background-image:url('jump.png');
+  background-size: contain;
   padding:15px;
   width: 500px;
-  height: 500px;
-  position: auto;
+  height: 400px;
+  position: absolute;
   margin: auto;
   
 }
