@@ -13,17 +13,19 @@ margin:0;
   height: 500px;
   position: auto;
   margin: auto;
+  z-index:-100;
 
 }
 
 .kitcontain{
-  background-image:url('jump.png');
+  background-image:url('jumptransparent.png');
   background-size: contain;
   padding:15px;
   width: 500px;
-  height: 400px;
+  height: 300px;
   position: absolute;
   margin: auto;
+  z-index:10;
   
 }
 
