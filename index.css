@@ -16,3 +16,13 @@ margin:0;
 
 }
 
+.kitcontain{
+  background-image:url('jump.png');
+  padding:15px;
+  width: 500px;
+  height: 500px;
+  position: auto;
+  margin: auto;
+  
+}
+
