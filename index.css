@@ -7,11 +7,13 @@ margin:0;
 }
 
 .centermain{
+  
   background-color:#fff;
   padding:15px;
   width: 500px;
   height: 500px;
-  position: auto;
+  position: absolute;
+  top:100px;
   margin: auto;
   z-index:-100;
 
@@ -26,6 +28,7 @@ margin:0;
   position: absolute;
   margin: auto;
   z-index:10;
+  left:250px;
   
 }
 
